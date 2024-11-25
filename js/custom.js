@@ -28,7 +28,7 @@ $(document).ready(function() {
 
     // Initialize carousel for testimonials
     $("#testimonilas_slider").owlCarousel({
-      loop: true,
+      loop: false,
       responsiveClass: true,
       nav: true,
       margin: 20,
